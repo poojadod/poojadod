@@ -11,7 +11,10 @@ I'm a **CLOUD and SOFTWARE Engineer** with expertise in building scalable Cloud 
 - **Web Technology**: ReactJs, NodeJs, Redux, ExpressJs, SpringBoot, REST APIs, TailwindCSS
 - **Cloud & Big Data**: AWS (S3, EC2, VPC, IAM, Glue, Athena, Lambda, DynamoDB, EKS)  
 - **Machine Learning**: SageMaker, TensorFlow, FastAPI  
-- **Data Engineering**: Kafka, Spark, Docker, Kubernetes
+- **Data Engineering**: Kafka, Spark
+- **Databases & Storage**: SQL, RDS, PostgreSQL, MongoDB, DynamoDB, Redshift, Redis, S3
+- **Cloud & DevOps Tools**: AWS, GCP, Postman, Git, GitHub Actions, Swagger, Terraform, Packer, Docker, Kubernetes
+- **Technical Concepts**: Agile Methodologies (Scrum), Object Oriented Programming, Data structures and Algorithm
 
 
 ## 🌐 Connect with Me  
